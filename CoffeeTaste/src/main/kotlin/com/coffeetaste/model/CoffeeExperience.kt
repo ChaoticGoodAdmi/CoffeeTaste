@@ -35,7 +35,7 @@ data class CoffeeExperience(
     val originContinent: String,
     val processingMethod: String,
     val lotName: String,
-    val tasteProfile: String,
-    val aftertaste: String,
+    val tasteProfile: String?,
+    val aftertaste: String?,
     val rating: Int
 )

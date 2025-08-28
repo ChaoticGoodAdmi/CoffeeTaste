@@ -4,6 +4,9 @@ spring:
       host: localhost
       port: 27017
       database: coffeetaste
+      username: coffeetaste
+      password: coffeetastepass
+      authentication-database: coffeetaste
 
 server:
-  port: 8080
+  port: 8008

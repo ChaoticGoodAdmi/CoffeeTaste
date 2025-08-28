@@ -75,7 +75,7 @@ Content-Type: application/json
   "coffeeType": "DRIP_BAG",
   "roasterCompany": "Acme Roasters",
   "originCountry": "Ethiopia",
-  "continent": "Africa",
+  "originContinent": "Africa",
   "processingMethod": "Washed",
   "lotName": "Yirgacheffe Lot 1",
   "tasteProfile": "Floral, citrus and tea-like",
