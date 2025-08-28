@@ -29,7 +29,7 @@ import org.springframework.data.mongodb.core.mapping.Document
 data class CoffeeExperience(
     @Id
     val id: String? = null,
-    val coffeeType: CoffeeType,
+    val coffeeType: String,
     val roasterCompany: String,
     val originCountry: String,
     val originContinent: String,
